@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "arroz-con-pollo-maria-3",
+  "title": "Arroz con pollo",
+  "contributor": {
+    "display_name": "Maria",
+    "anonymous": false,
+    "consent_to_publish": true
+  },
+  "culture": {
+    "origin": "Cali, Colombia",
+    "region_slug": "cali-colombia",
+    "community": "family tradition"
+  },
+  "story": {
+    "summary": "Maria's family makes Arroz con pollo for Sunday lunch. Her abuela sold it at a market stall in Cali for years and her mum still makes too much of it.",
+    "full_text": "it's what sunday lunch smells like. abuela sold it at a market stall in Cali for years and mum still makes too much of it.",
+    "occasions": [
+      "every sunday"
+    ]
+  },
+  "recipe": {
+    "servings": null,
+    "time_minutes": null,
+    "ingredients": [
+      {
+        "item": "chicken thighs",
+        "quantity": "about 800g",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "rice",
+        "quantity": null,
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "sofrito",
+        "quantity": null,
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "peas",
+        "quantity": null,
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "saffron",
+        "quantity": "a bit",
+        "note": "if you have it",
+        "substitutes": []
+      }
+    ],
+    "steps": [
+      "brown the chicken",
+      "make the sofrito",
+      "add rice and stock",
+      "cook till done"
+    ],
+    "dietary_tags": []
+  },
+  "tags": [
+    "arroz con pollo",
+    "sunday",
+    "cali"
+  ],
+  "needs_confirmation": [
+    "how many people it serves was not mentioned",
+    "no cooking time was given",
+    "amount of rice was not given",
+    "amount of sofrito was not given",
+    "amount of peas was not given",
+    "stock is mentioned in the method but not listed in the ingredients",
+    "what goes into the sofrito was not described",
+    "whether the chicken is halal or kosher was not stated"
+  ],
+  "created_at": "2026-11-17"
+}
