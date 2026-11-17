@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "dumplings-rain1",
+  "title": "dumplings",
+  "contributor": {
+    "display_name": "rain1",
+    "anonymous": false,
+    "consent_to_publish": true
+  },
+  "culture": {
+    "origin": "china",
+    "region_slug": "china",
+    "community": "family tradition"
+  },
+  "story": {
+    "summary": "rain1 was taught this dumplings recipe by their mom. They make it for Chinese New Year as a celebration.",
+    "full_text": "celebration celebration celebration",
+    "occasions": [
+      "chinese new year"
+    ]
+  },
+  "recipe": {
+    "servings": null,
+    "time_minutes": null,
+    "ingredients": [
+      {
+        "item": "meat",
+        "quantity": null,
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "flour",
+        "quantity": null,
+        "note": null,
+        "substitutes": []
+      }
+    ],
+    "steps": [
+      "mix flour and water",
+      "put the meat inside and close it"
+    ],
+    "dietary_tags": [
+      "dairy-free",
+      "nut-free"
+    ]
+  },
+  "tags": [
+    "dumplings",
+    "china",
+    "chinese new year"
+  ],
+  "needs_confirmation": [
+    "how many people it serves was not mentioned",
+    "no cooking time was given",
+    "the amount of meat was not given",
+    "the amount of flour was not given",
+    "water is used in the method but not listed in the ingredients"
+  ],
+  "created_at": "2026-11-17"
+}
