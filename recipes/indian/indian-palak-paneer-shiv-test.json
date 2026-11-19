@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "indian-palak-paneer-shiv-test",
+  "title": "Indian palak paneer",
+  "contributor": {
+    "display_name": "shiv-test",
+    "anonymous": false,
+    "consent_to_publish": true
+  },
+  "culture": {
+    "origin": "Indian",
+    "region_slug": "indian",
+    "community": null
+  },
+  "story": {
+    "summary": "The contributor offers a fresh take on Indian palak paneer, using orzo instead of roti or rice. They say the dish looks like a creamy spinach risotto with big, bold Indian flavours, and that rice was a mainstay when they were a student.",
+    "full_text": "I adore the soul-warming flavours of Indian palak paneer, but often tire of eating it with roti or rice (although the latter combo was a mainstay when I was a student). Here's a fresh take on the classic spinach and white cheese curry using orzo as a vehicle for getting an Indian restaurant food fix at home. It looks quite like a creamy spinach risotto but has big, bold Indian flavours.",
+    "occasions": [
+      "when I was a student"
+    ]
+  },
+  "recipe": {
+    "servings": null,
+    "time_minutes": null,
+    "ingredients": [
+      {
+        "item": "paneer",
+        "quantity": "225g/8oz",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "oil",
+        "quantity": "2 tbsp",
+        "note": "such as rapeseed oil",
+        "substitutes": []
+      },
+      {
+        "item": "onion",
+        "quantity": "1 medium",
+        "note": "finely chopped",
+        "substitutes": []
+      },
+      {
+        "item": "garlic",
+        "quantity": "2 tsp",
+        "note": "finely chopped",
+        "substitutes": []
+      },
+      {
+        "item": "ginger",
+        "quantity": "1 tsp",
+        "note": "finely chopped",
+        "substitutes": []
+      },
+      {
+        "item": "hot green chilli",
+        "quantity": "1",
+        "note": "finely chopped",
+        "substitutes": []
+      },
+      {
+        "item": "salted butter",
+        "quantity": "25g/1oz",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "orzo",
+        "quantity": "325g/11½oz",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "boiling water",
+        "quantity": "1 litre/1¾ pint",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "baby spinach leaves",
+        "quantity": "150g/5½oz",
+        "note": "roughly chopped",
+        "substitutes": [
+          "frozen chopped spinach",
+          "frozen leaf spinach"
+        ]
+      },
+      {
+        "item": "garam masala",
+        "quantity": "1¼ tsp",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "dried fenugreek leaves (kasoori methi)",
+        "quantity": "2 tsp",
+        "note": "rubbed to a fine powder between your palms or in a pestle and mortar",
+        "substitutes": []
+      },
+      {
+        "item": "salt",
+        "quantity": "1 tsp",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "single cream",
+        "quantity": "150ml/5fl oz",
+        "note": null,
+        "substitutes": []
+      },
+      {
+        "item": "crispy fried onions",
+        "quantity": "small handful",
+        "note": "to garnish",
+        "substitutes": []
+      }
+    ],
+    "steps": [
+      "Grate half of the paneer using the coarse side of a cheese grater. Cut the remaining paneer into small 5mm/¼in cubes.",
+      "Heat the oil in a large non-stick pan over a medium heat. Add the paneer cubes and shallow fry, turning until they're a medium golden brown all over, about 3 minutes. Remove the paneer using a slotted spoon, leaving the oil in the pan, and set aside on a plate.",
+      "Add the onion to the same pan and fry over a medium heat for 5 minutes, until translucent and just browning.",
+      "Add the garlic, ginger and chilli. Cook for a further 2 minutes before adding the butter and orzo. Stir the orzo into the spicy onion mixture, allowing the butter to melt and coat the orzo.",
+      "Add the hot water and stir well. Cook for 10–12 minutes over a medium heat, stirring all the time, until the liquid has reduced and the orzo is al dente. Add a few more tablespoons of hot kettle water if it begins to dry out.",
+      "Remove from the heat and add the spinach, grated paneer (you can reserve some for sprinkling on top if you like), paneer cubes, garam masala, dried fenugreek, salt and cream. Stir until the spinach has wilted, around 1–2 minutes, and then beat well with a wooden spoon for a further 1–2 minutes, until creamy like a risotto.",
+      "Garnish with crispy fried onions and the optional reserved grated paneer to serve."
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "nut-free"
+    ]
+  },
+  "tags": [
+    "palak paneer",
+    "orzo",
+    "india",
+    "spinach",
+    "comfort-food",
+    "student"
+  ],
+  "needs_confirmation": [
+    "how many people it serves was not mentioned",
+    "no total cooking time was given"
+  ],
+  "created_at": "2026-11-19"
+}
